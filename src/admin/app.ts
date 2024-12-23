@@ -13,7 +13,7 @@ export default {
       // 'id',
       // 'it',
       // 'ja',
-      // 'ko',
+      'ko',
       // 'ms',
       // 'nl',
       // 'no',
